@@ -1,0 +1,15 @@
+{
+  "name": "carlosnoderace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Carlos Calleja Saez",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-boxes": "^4.0.0"
+  }
+}
