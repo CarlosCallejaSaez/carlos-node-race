@@ -1,4 +1,5 @@
 # Carlos Node Race
+https://codesandbox.io/p/github/CarlosCallejaSaez/carlos-node-race/main?workspaceId=992914a5-682a-474a-9fb4-003a5b03a2e5
 
 Este es un pequeño juego de carrera de coches desarrollado en Node.js. Los jugadores pueden seleccionar entre una variedad de coches y competir entre sí en una carrera simulada.
 Utiliza clases de JavaScript para organizar y estructurar el código de una manera más clara y modular. Aquí hay algunas razones por las que se utilizan clases en este proyecto:
